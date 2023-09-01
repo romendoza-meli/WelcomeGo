@@ -1,3 +1,3 @@
-module github.com/romendoza-meli/go-mod-classii
+module exercises
 
 go 1.21.0
