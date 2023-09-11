@@ -1,0 +1,6 @@
+go 1.21.0
+
+use (
+	./01-go-bases/02-functions/exercises
+	./02-go-web/01-activity
+)
